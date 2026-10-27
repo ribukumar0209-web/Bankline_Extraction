@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+earthengine-api
+geopandas
+shapely
+pandas
+openpyxl
+matplotlib
